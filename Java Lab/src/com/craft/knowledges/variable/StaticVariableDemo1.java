@@ -5,9 +5,9 @@ class InfoClass {
 	static String city = "New York";
 	String name = "Mohammed Ismail";
 	int age = 30;
-}
+//}
 
-public class StaticVariableDemo1 {
+//public class StaticVariableDemo1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

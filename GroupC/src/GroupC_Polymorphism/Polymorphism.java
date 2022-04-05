@@ -2,7 +2,7 @@ package GroupC_Polymorphism;
 
 public class Polymorphism {
 
-	public double calcArea(int length, int width) {
+	public static double calcArea(int length, int width) {
 		
 		double rect = length * width;
 		return rect; //it will return back to the value and give the result
